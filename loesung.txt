@@ -1,0 +1,63 @@
+Lösung für "Die Verwandlung"
+
+**WICHTIGER HINWEIS: Bei jeder falschen Antwort in einem Rätsel wird das Spiel komplett zurückgesetzt und du musst wieder bei Station 1 beginnen!**
+
+Dieses Dokument beschreibt den Lösungsweg für alle 6 Stationen des interaktiven Textadventures.
+
+---
+Station 1: Die Tür der Zweifel
+---
+Ziel: Finde das richtige Wort, um die Tür zu öffnen.
+Aufgabe: Es werden die Buchstaben A, L, W, D, E, N angezeigt. Diese müssen in die korrekte Reihenfolge gebracht werden.
+Lösung: Das gesuchte Wort ist "WANDEL". Klicke die Buchstaben in dieser Reihenfolge an und bestätige, um die Tür zu öffnen und das 'Wort der Klarheit' zu erhalten.
+
+---
+Station 2: Der Spiegel der Möglichkeiten
+---
+Ziel: Wähle die richtige von drei Reflexionen deiner selbst.
+Aufgabe: Es werden drei Bilder mit unterschiedlichen visuellen Filtern und Beschreibungen gezeigt. Die Reihenfolge der Optionen ist bei jedem Spieldurchgang zufällig.
+Lösung: Die korrekte Wahl ist die Reflexion mit der Beschreibung: "Ein Versprechen für die Zukunft". Nur diese Wahl führt dich weiter und belohnt dich mit dem 'Kristallsplitter'. Die anderen beiden Optionen symbolisieren eine falsche Abzweigung und führen zum Neustart des Spiels.
+
+---
+Station 3: Der Koffer ohne Namen
+---
+Ziel: Wähle den richtigen Koffer für deine Weiterreise.
+Aufgabe: Es stehen drei Koffer zur Auswahl, jeder mit einer metaphorischen Beschreibung. Die Reihenfolge der Optionen ist bei jedem Spieldurchgang zufällig.
+Lösung: Der korrekte Koffer ist der "Leichte Koffer" mit der Beschreibung: "Gepackt für eine Zukunft, deren Skript noch ungeschrieben ist." Die Auswahl dieses Koffers belohnt dich mit dem 'Goldenen Schlüssel'. Die anderen beiden Koffer sind Sackgassen und führen zum Neustart des Spiels.
+
+---
+Station 4: Die vergessene Melodie
+---
+Ziel: Wiederhole eine sehr lange, musikalische Sequenz.
+Aufgabe: Das Spiel spielt eine feste Melodie von 42 Tönen auf sechs farbigen Feldern vor. Du musst dir die exakte Reihenfolge merken und sie anschließend Note für Note korrekt wiedergeben.
+Lösung: Klicke auf "Lauschen", um die Melodie zu starten. Die Sequenz ist eine Anspielung auf den Song "Oh, Pretty Woman". Die Reihenfolge der Farben ist:
+- Rot (R) = Pad 1 (oben links)
+- Blau (B) = Pad 2 (oben mitte)
+- Grün (G) = Pad 3 (oben rechts)
+- Gelb (Y) = Pad 4 (unten links)
+- Lila (P) = Pad 5 (unten mitte)
+- Orange (O) = Pad 6 (unten rechts)
+
+Die Sequenz lautet:
+R, R, B, G, Y,
+R, R, B, G, Y,
+R, R, B, G, Y, P, O, Y,
+R, R, B, G, Y, P, O, Y,
+R, R, B, G, Y, P, O, Y,
+R, R, B, G, Y, P, O, Y.
+
+Gib die gesamte 42-Noten-Sequenz korrekt ein, um die 'Klangperle' zu erhalten. Bei einem einzigen Fehler beginnt das Spiel von vorn.
+
+---
+Station 5: Die Maske des Abends
+---
+Ziel: Wähle die richtige Antwort auf die Frage "Wer wirst du heute sein?".
+Aufgabe: Es werden drei Antwortmöglichkeiten in einem Dialog angeboten. Die Reihenfolge der Optionen ist bei jedem Spieldurchgang zufällig.
+Lösung: Die korrekte, selbstbejahende Antwort lautet: ""Ich bin bereit, zu sehen und gesehen zu werden."". Diese Wahl verleiht dir die 'Seidenmaske'. Die anderen Antworten führen zum Neustart des Spiels.
+
+---
+Station 6: Der rote Teppich
+---
+Ziel: Schließe die Reise ab und enthülle das Geschenk.
+Aufgabe: Dies ist die finale Station, die deine bisher gesammelten Gegenstände zeigt.
+Lösung: Es gibt kein Rätsel mehr zu lösen. Klicke einfach auf den Button "Das Geschenk enthüllen", um die letzte Sequenz auszulösen und die Einladungskarte mit den Tickets umzudrehen.
